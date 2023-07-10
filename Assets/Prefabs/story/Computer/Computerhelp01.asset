@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 431d6116d2d98e4499334329072030de, type: 3}
+  m_Name: Computerhelp01
+  m_EditorClassIdentifier: 
+  keyword: "\u5DE5\u7A0B\u5E2BCQA03"
+  hurtplayer: 0
+  hurtenemy: 25
+  dialogue:
+  - n-
+  - na-
+  - getfix
+  - OK!
+  - "\u4FEE\u597D\u4E86!"
+  - "\u9032\u5165\u6700\u5F8C\u4E00\u500B\u6B65\u9A5F"
+  - p-
+  - pc-
+  - CQA04
+  - "\u9078\u64C7\u4E0A\u5074\u9078\u9805"

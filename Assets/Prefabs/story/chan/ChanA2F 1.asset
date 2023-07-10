@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 716d06816e0b3024fa61d2e87e1535b5, type: 3}
+  m_Name: ChanA2F 1
+  m_EditorClassIdentifier: 
+  Keyword: "\u56DB\u89D2\u8932ChanQA02"
+  hurtplayer: 15
+  hurtenemy: 0
+  isendsentence: 0
+  dialogue:
+  - n-
+  - "\u56DB\u89D2\u8932?"
+  - "\u53EF\u62C9\u79D1\u62C9\u746A\u8389\u7687\u4F2F\u7235\u4E09\u4E16\u624D\u4E0D\u662F\u9019\u9EBC\u4F4E\u7D1A\u7684\u6771\u897F"
+  - "\u770B\u4F86\u4F60\u662F\u4EC0\u9EBC\u90FD\u4E0D\u77E5\u9053\u5C31\u5728\u90A3\u908A\u4E82\u8AAA"
+  - p-
+  - "\u963F...\u4E0D\u662F.."
+  - pc-
+  - ChanQA02
+  - "\u9078\u64C7\u4E0A\u5074\u9078\u9805"

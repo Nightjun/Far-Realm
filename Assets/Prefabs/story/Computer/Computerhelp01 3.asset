@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 431d6116d2d98e4499334329072030de, type: 3}
+  m_Name: Computerhelp01 3
+  m_EditorClassIdentifier: 
+  keyword: "\u5DE5\u7A0B\u5E2BCQA04"
+  hurtplayer: 10
+  hurtenemy: 0
+  dialogue:
+  - n-
+  - na-
+  - getangry
+  - "\u554A!\u6211\u6C92\u58DE!"
+  - "\u4F60\u7B49\u7B49\u53EB\u5DE5\u7A0B\u5E2B\u4F86!"
+  - "\u4ED6\u6703\u751F\u6C23\u7D66\u4F60\u770B\u5594!"
+  - p-
+  - pc-
+  - CQA04
+  - "\u9078\u64C7\u4E0A\u5074\u9078\u9805"

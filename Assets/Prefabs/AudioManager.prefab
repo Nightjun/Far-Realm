@@ -1,0 +1,454 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2440179877920267028
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2440179877920267026}
+  - component: {fileID: 2440179877920267027}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2440179877920267026
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2440179877920267028}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2440179877920267027
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2440179877920267028}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0446e4549e51d2b4a8585b317a0e56cf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: lobbybuttom
+    clip: {fileID: 8300000, guid: 1ab6fdfe1d5611b41ac6514ac3cb9249, type: 3}
+    volume: 0.6
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: kidlaugh
+    clip: {fileID: 8300000, guid: 1ee512ba2c07a664bad52af816edb9f6, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: schoolclock
+    clip: {fileID: 8300000, guid: 7aa13cf9d4b14bc4999a3e726b540939, type: 3}
+    volume: 0.7
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: theendofstartani
+    clip: {fileID: 8300000, guid: eec15b68b0940634ea9cb92ae11e0f02, type: 3}
+    volume: 0.7
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: playerwakeup
+    clip: {fileID: 8300000, guid: 1ca29a5956b63924f8287b198c22e14a, type: 3}
+    volume: 0.6
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: playerdeeplybreathe
+    clip: {fileID: 8300000, guid: e52506900906f814d98f308ec83b644b, type: 3}
+    volume: 0.6
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: bathwater
+    clip: {fileID: 8300000, guid: dc2509880180887418ea597782b3d249, type: 3}
+    volume: 0.6
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: bathwateroff
+    clip: {fileID: 8300000, guid: 1cb12647f503aff419c22ad4f559fd3a, type: 3}
+    volume: 0.6
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: bathwateropen
+    clip: {fileID: 8300000, guid: f2d52f45389f6d841b409eef2843a83f, type: 3}
+    volume: 0.6
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: cabinetopen
+    clip: {fileID: 8300000, guid: 24680c8ef7c73e246996cc58681e316e, type: 3}
+    volume: 0.6
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: coffe
+    clip: {fileID: 8300000, guid: 413e6998504f519429b0b2b253dc2fcb, type: 3}
+    volume: 0.6
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: playerdrink
+    clip: {fileID: 8300000, guid: 541105401893aca46ae667bc7528c66b, type: 3}
+    volume: 0.6
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: refrigeratorclose
+    clip: {fileID: 8300000, guid: 955cf52f79bb9324dac0d071e6c8ef30, type: 3}
+    volume: 0.6
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: refrigeratoropen
+    clip: {fileID: 8300000, guid: 7ad11f884291a814d97ea1984a19a327, type: 3}
+    volume: 0.6
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: sinkopen
+    clip: {fileID: 8300000, guid: c2a6bd93038690e46a5d20d1c37e95be, type: 3}
+    volume: 0.6
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: sinkclose
+    clip: {fileID: 8300000, guid: 4976a6ff099289542aadecc4bc5b4934, type: 3}
+    volume: 0.6
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: sinkwaterfall
+    clip: {fileID: 8300000, guid: 2cbe1a8055774bf47b51cf59d948ead1, type: 3}
+    volume: 0.6
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: togradmaring
+    clip: {fileID: 8300000, guid: 98338a35390db5049939160bca40a715, type: 3}
+    volume: 0.6
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: missionhint
+    clip: {fileID: 8300000, guid: cb3e7a220e2fbda40aa3c3df95f4e9c2, type: 3}
+    volume: 0.6
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: noteclose
+    clip: {fileID: 8300000, guid: e20d6514d4925bb479f14aca2916bedd, type: 3}
+    volume: 0.6
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: noteopen
+    clip: {fileID: 8300000, guid: 0d24e69a2271d93438f316692df14700, type: 3}
+    volume: 0.6
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: battlemusic
+    clip: {fileID: 8300000, guid: d149db4242eb7a847946db76e0446931, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: playertalk
+    clip: {fileID: 8300000, guid: d72bc9469a93c414f9e5a107ba897302, type: 3}
+    volume: 0.8
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: playerwalkoffice
+    clip: {fileID: 8300000, guid: af3f1ad22a5af1046827ec57a15966ac, type: 3}
+    volume: 0.8
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: firldbmusic
+    clip: {fileID: 8300000, guid: ea819a1353e7882499d8ec1f84501f6d, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: grandmapop
+    clip: {fileID: 8300000, guid: ec7bb29f613e4694ca6edd21fa73ca0e, type: 3}
+    volume: 0.8
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: wiredmusic
+    clip: {fileID: 8300000, guid: 2157a4bc8d8ca66468df6df45e04e743, type: 3}
+    volume: 0.7
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: wiredwind
+    clip: {fileID: 8300000, guid: 80a4844c76bf99248b8600fd357fdb33, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: grandmago
+    clip: {fileID: 8300000, guid: d18b1820e88e6dc4cbc688d1a1a07190, type: 3}
+    volume: 0.8
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: ghostfire
+    clip: {fileID: 8300000, guid: 04519dbe22ecd044b96dd0059dc66b48, type: 3}
+    volume: 0.8
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: battlebuttem
+    clip: {fileID: 8300000, guid: 3627225eb57053349a346e39d4e624d6, type: 3}
+    volume: 0.8
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: battleattack
+    clip: {fileID: 8300000, guid: 365fe90cad7ba794ca1a9d6139737ce9, type: 3}
+    volume: 0.8
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: battletime
+    clip: {fileID: 8300000, guid: a382f7657f5151747b9615ec7a8a4bbe, type: 3}
+    volume: 0.8
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: phonezoo
+    clip: {fileID: 8300000, guid: beb15a99333d83444bb866bea333c3d8, type: 3}
+    volume: 0.8
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: backpackopen
+    clip: {fileID: 8300000, guid: 5ff497ec2c7153140b37c7232bfb4baa, type: 3}
+    volume: 0.8
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: mapopen
+    clip: {fileID: 8300000, guid: f53d0d27b5cbb944aa280ed5db684a8c, type: 3}
+    volume: 0.8
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: drumroll
+    clip: {fileID: 8300000, guid: 4bc646f7b1b3ce1468e364c8ee06c88c, type: 3}
+    volume: 0.8
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: tala
+    clip: {fileID: 8300000, guid: 89d3dd413d3fbfb42b083b80381e7c25, type: 3}
+    volume: 0.8
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Amy
+    clip: {fileID: 8300000, guid: 2f3c7a6d7cea26b43895bee2ac951393, type: 3}
+    volume: 0.8
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Emma
+    clip: {fileID: 8300000, guid: 49e22351a5bc6eb4881a9481f83855b8, type: 3}
+    volume: 0.8
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: "\u96FB\u8166"
+    clip: {fileID: 8300000, guid: 25b6ba0d3c2a88e4789b229b5fe47e3d, type: 3}
+    volume: 0.8
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: phone uncle
+    clip: {fileID: 8300000, guid: 9c59a9cb26b8a494d915400cf018c068, type: 3}
+    volume: 0.8
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: yellow
+    clip: {fileID: 8300000, guid: 29b82ffe29711d340888d5b229c61b29, type: 3}
+    volume: 0.8
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: ashu
+    clip: {fileID: 8300000, guid: 43e35fbbe33571d42b1926db08457627, type: 3}
+    volume: 0.8
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: bamboo
+    clip: {fileID: 8300000, guid: fe1bff67411835a4a92c037b9051166c, type: 3}
+    volume: 0.8
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: chu
+    clip: {fileID: 8300000, guid: 643b5e0a08b50a549a711f15920ed977, type: 3}
+    volume: 0.8
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: dragen
+    clip: {fileID: 8300000, guid: eb358d7eca6ed414d94bc2671e8fa814, type: 3}
+    volume: 0.8
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: firbird
+    clip: {fileID: 8300000, guid: 7f79d42e72ab1644f9d5b70a4aacce0f, type: 3}
+    volume: 0.8
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: headtalk
+    clip: {fileID: 8300000, guid: 37fcc3ee6bdb69142aa716a5abb84633, type: 3}
+    volume: 0.8
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: tiger
+    clip: {fileID: 8300000, guid: a98b549471d09ba44a1e5167ee9024f7, type: 3}
+    volume: 0.8
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: fireghost
+    clip: {fileID: 8300000, guid: d958e6aa274f99c4a83c546875bb6458, type: 3}
+    volume: 0.8
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: nohead
+    clip: {fileID: 8300000, guid: 2e9832c2c262aa34396f252fe6e74528, type: 3}
+    volume: 0.8
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: thunderbird
+    clip: {fileID: 8300000, guid: 508fba2cc217da24d9d5d39f761b7935, type: 3}
+    volume: 0.8
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: yellowlaugh
+    clip: {fileID: 8300000, guid: 45c3e7dc872999941bc51eda79afd3ad, type: 3}
+    volume: 0.8
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: xagod
+    clip: {fileID: 8300000, guid: a74564bbf532deb47ab9d07778c2ceaa, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: xagodmagic
+    clip: {fileID: 8300000, guid: 0be93fe0b0dc8524e89cf2fe598c7802, type: 3}
+    volume: 0.8
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: strangefish
+    clip: {fileID: 8300000, guid: 5db9d459f1aa0cd409b66b5fe70b7662, type: 3}
+    volume: 0.8
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: otherpeople
+    clip: {fileID: 8300000, guid: 87031f2cb1e7b7341adf1e4984369f01, type: 3}
+    volume: 0.8
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: lobbymusic
+    clip: {fileID: 8300000, guid: 3097c77af5203ee4790a78dda4f08365, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: officebaclgroundmusic
+    clip: {fileID: 8300000, guid: ebc8004f76f813d4998e65a4373c9c3c, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: startmusic
+    clip: {fileID: 8300000, guid: a12b44230e083ce49a98a0ada54012ba, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: bathroomlight
+    clip: {fileID: 8300000, guid: bb9aa4336c287674e8625c6cdd8fb058, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: togradmamusic
+    clip: {fileID: 8300000, guid: 666965ad4ce0faa478044e9d2a5ed961, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: dancingarea
+    clip: {fileID: 8300000, guid: f53faf18d6fbcf74793c1b367127e5be, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: forestbackground
+    clip: {fileID: 8300000, guid: c0c581660fd8f444f86ef31a20c69432, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: townbackground
+    clip: {fileID: 8300000, guid: a2ef2004c03b83348bcc0e588480ef30, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: townpeoplebackground
+    clip: {fileID: 8300000, guid: 271b0548172414744b003666ed12e1f3, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: yellowbackground
+    clip: {fileID: 8300000, guid: de9b5d95e7e88a546a5bb0da40a610dd, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}

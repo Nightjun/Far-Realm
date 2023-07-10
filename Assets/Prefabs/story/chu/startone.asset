@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 716d06816e0b3024fa61d2e87e1535b5, type: 3}
+  m_Name: startone
+  m_EditorClassIdentifier: 
+  Keyword: "\u958B\u59CB"
+  hurtplayer: 0
+  hurtenemy: 0
+  isendsentence: 0
+  isbadend: 0
+  dialogue:
+  - n-
+  - "\u554F\u5230\u4E86\u55CE?"
+  - "\u963F\u6885\u82B1\u8981\u4EC0\u9EBC?"
+  - p-
+  - pc-
+  - chuQA01
+  - "\u9078\u64C7\u4E0A\u5074\u9078\u9805"

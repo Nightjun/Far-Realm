@@ -1,0 +1,1680 @@
+fileFormatVersion: 2
+guid: f4da3271bc5680e49af202f88f812e76
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5407484869209319587
+    second: gama
+  - first:
+      213: 6208198497407464828
+    second: towninside _73
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 34
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: towninside _0
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 992
+        width: 12
+        height: 15
+      alignment: 9
+      pivot: {x: 0.43783823, y: -1.5139811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd58c491e864f240800000000000000
+      internalID: 4824596418893733333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 986
+        width: 28
+        height: 34
+      alignment: 9
+      pivot: {x: 0.4850878, y: -0.009647145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30975bc08b8ae510800000000000000
+      internalID: 1579228004630368316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 986
+        width: 27
+        height: 34
+      alignment: 9
+      pivot: {x: 0.47680324, y: 0.01491412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18871e334057a2dc0800000000000000
+      internalID: -3662986686001743743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _3
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 990
+        width: 43
+        height: 53
+      alignment: 9
+      pivot: {x: 0.50485516, y: -0.012081506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9be4d8a69f5c2eb0800000000000000
+      internalID: -4743311206845715555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gama01
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 830
+        width: 180
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5326606, y: 0.6343772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e29c2c9df49cae0800000000000000
+      internalID: -1528602801821110655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _6
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 944
+        width: 23
+        height: 45
+      alignment: 9
+      pivot: {x: 0.50000066, y: 0.01750624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40be22b757f94ef60800000000000000
+      internalID: 8062744559825906436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _7
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 919
+        width: 64
+        height: 42
+      alignment: 9
+      pivot: {x: 0.50000024, y: -0.002046131}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd52e546511e11e0800000000000000
+      internalID: -2225322103637123639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _8
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 959
+        width: 31
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.026249813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb0cc15cbadbcca0800000000000000
+      internalID: -5995457976552649733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 960
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.46894836, y: -2.5766907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e603a51d994482a0800000000000000
+      internalID: -6736178203617720606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _10
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 958
+        width: 9
+        height: 11
+      alignment: 9
+      pivot: {x: 0.44480726, y: -2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9b891c31fcdfc50800000000000000
+      internalID: 6700739504356506027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _11
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 958
+        width: 9
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5551995, y: -2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815593cfa1002f590800000000000000
+      internalID: -7642045501793544936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _12
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 927
+        width: 44
+        height: 41
+      alignment: 9
+      pivot: {x: 0.4999993, y: 0.06320563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1f1856ac8cccaa0800000000000000
+      internalID: -6139311420400864774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _13
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 890
+        width: 31
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5134696, y: 0.020598235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578906d3d97e96f20800000000000000
+      internalID: 3416516454862854261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _14
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 907
+        width: 8
+        height: 14
+      alignment: 9
+      pivot: {x: 0.4228058, y: -1.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c58c1720448d2c0800000000000000
+      internalID: -4406697458092450796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _15
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 908
+        width: 21
+        height: 17
+      alignment: 9
+      pivot: {x: 0.51717705, y: -1.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfa7422562927650800000000000000
+      internalID: 6229202197671292882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _16
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 879
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.45588684, y: -0.021476237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03a86382c8c89ce0800000000000000
+      internalID: -1398146946544655602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _17
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 811
+        width: 38
+        height: 123
+      alignment: 9
+      pivot: {x: 0.51624984, y: 0.99201876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad0c0d38019715a0800000000000000
+      internalID: -6550607668417131098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _18
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 843
+        width: 43
+        height: 59
+      alignment: 9
+      pivot: {x: 0.42841643, y: 0.5361545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04904691ba53ce60800000000000000
+      internalID: 7981322683407176719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 884
+        width: 14
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5441066, y: 0.022810502}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7b8be21b630aa60800000000000000
+      internalID: 7683201098915035083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _20
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 852
+        width: 22
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: -1.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46b4a313c5083e50800000000000000
+      internalID: 6789182773667345996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _21
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 820
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ddecf02c0a8faa0800000000000000
+      internalID: -6126970537688244897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _22
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 821
+        width: 17
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5438771, y: -1.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a74e1a50a345df0800000000000000
+      internalID: -192465088204735967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _23
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 824
+        width: 12
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5310796, y: -1.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e755d4a6fede7710800000000000000
+      internalID: 1693035660846651362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _24
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 829
+        width: 10
+        height: 14
+      alignment: 9
+      pivot: {x: 0.4613266, y: -1.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014229feae3aece10800000000000000
+      internalID: 2219891895777240080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _25
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 800
+        width: 59
+        height: 49
+      alignment: 9
+      pivot: {x: 0.50000024, y: 0.015184052}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691e1744007f9aeb0800000000000000
+      internalID: -4707960354918768234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _26
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 813
+        width: 14
+        height: 10
+      alignment: 9
+      pivot: {x: 0.3667995, y: -1.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38f3a43b78aadf40800000000000000
+      internalID: 5754096721036834879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _27
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 809
+        width: 16
+        height: 13
+      alignment: 9
+      pivot: {x: 0.47668934, y: -1.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ab2b6e5ee082c20800000000000000
+      internalID: 3181809517318027854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _28
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 698
+        width: 143
+        height: 71
+      alignment: 9
+      pivot: {x: 0.4955499, y: 0.15546943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498e73f4412a37290800000000000000
+      internalID: -7893787513738237804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 614
+        width: 125
+        height: 159
+      alignment: 9
+      pivot: {x: 0.49395362, y: 0.011107544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ff5fd8b05cea4d0800000000000000
+      internalID: -3121340838304153783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icelight
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 716
+        width: 102
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0152449bf0aebec70800000000000000
+      internalID: 9001545633483728144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _31
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 575
+        width: 141
+        height: 122
+      alignment: 9
+      pivot: {x: 0.48367828, y: 1.0336609}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20e81617cc85e580800000000000000
+      internalID: -8798471510301286355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _32
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 582
+        width: 141
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5003043, y: 0.9553193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c782ae3cd053b0270800000000000000
+      internalID: 8217720278305351804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceup
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 657
+        width: 70
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: -0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01ca84798af423b0800000000000000
+      internalID: -5538026173486153459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _34
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 460
+        width: 102
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: -0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02368fa7887e6b50800000000000000
+      internalID: 6588335829050339853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _35
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 335
+        width: 159
+        height: 183
+      alignment: 9
+      pivot: {x: 0.5052394, y: 0.54552156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2973f4657d021d0800000000000000
+      internalID: -3377462954831670605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice01
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 415
+        width: 114
+        height: 152
+      alignment: 9
+      pivot: {x: 0.5, y: 0.56751937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812f0669fd0a6ade0800000000000000
+      internalID: -1322192558425574888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _37
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 427
+        width: 19
+        height: 14
+      alignment: 9
+      pivot: {x: 0.43631706, y: -0.9075579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f05e391dea4b1b0800000000000000
+      internalID: -5641692218035728481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _38
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 436
+        width: 11
+        height: 6
+      alignment: 9
+      pivot: {x: 0.4673878, y: -1.9432119}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5321e3aa50e0fd740800000000000000
+      internalID: 5178873513993179701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice05
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 403
+        width: 22
+        height: 49
+      alignment: 9
+      pivot: {x: 0.4466858, y: 0.039214466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4bd0f8f26e3c8a0800000000000000
+      internalID: -6285927562941188938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _40
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 425
+        width: 5
+        height: 5
+      alignment: 9
+      pivot: {x: 0.6776489, y: -1.3092041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d020236574eb17fe0800000000000000
+      internalID: -1192963212678397427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice08
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 424
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcaf3aa2993bec0d0800000000000000
+      internalID: -3400583198191387957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice11
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 425
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28954c2c8dc1ac7e0800000000000000
+      internalID: -1744550188346484350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _43
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 377
+        width: 70
+        height: 47
+      alignment: 9
+      pivot: {x: 0.47619867, y: 0.1455117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d7d19e817b368f0800000000000000
+      internalID: -548393411990946425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _44
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 332
+        width: 31
+        height: 85
+      alignment: 9
+      pivot: {x: 0.4865132, y: 0.02781767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89994f62f9bba2d20800000000000000
+      internalID: 3254619972956363160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _45
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 404
+        width: 13
+        height: 12
+      alignment: 9
+      pivot: {x: 0.50156695, y: -0.54255676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1df4bbbfc7ce230800000000000000
+      internalID: 3669445217021317577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _46
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 399
+        width: 21
+        height: 16
+      alignment: 9
+      pivot: {x: 0.51816815, y: -0.3582363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc58aa36bb48cb3e0800000000000000
+      internalID: -2036606991112436275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice07
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 405
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef358229346ceb980800000000000000
+      internalID: -8521155451421174786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice02
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 376
+        width: 12
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5244344, y: 0.066533625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f5c9bbcb0cd62b0800000000000000
+      internalID: -5589599645662945432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice03
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 366
+        width: 31
+        height: 33
+      alignment: 9
+      pivot: {x: 0.4621641, y: 0.055716775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e1e61be57f2b530800000000000000
+      internalID: 3869427015940447872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice09
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 376
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce322a2865ce8b50800000000000000
+      internalID: 6597427555318513356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice10
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 391
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47fd13baa4215140800000000000000
+      internalID: 4706583401147004747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _52
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 338
+        width: 29
+        height: 44
+      alignment: 9
+      pivot: {x: 0.47116682, y: 0.06291823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d28fe2454db31a60800000000000000
+      internalID: 7643661097751249618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _53
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 336
+        width: 59
+        height: 35
+      alignment: 9
+      pivot: {x: 0.46896207, y: 0.19648263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046e7bb5cc1fc56b0800000000000000
+      internalID: -5306100400934885824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _54
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 370
+        width: 15
+        height: 17
+      alignment: 9
+      pivot: {x: 0.4966512, y: -1.8851893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c80b0e77dee81ca0800000000000000
+      internalID: -6045819890444859195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice04
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 352
+        width: 15
+        height: 31
+      alignment: 9
+      pivot: {x: 0.46090496, y: 0.06488825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e57853b965dd1c0800000000000000
+      internalID: -4477327229918421377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice06
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 355
+        width: 23
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07775269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5759bb6a24889c0800000000000000
+      internalID: -3924813791374248460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _57
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 256
+        width: 70
+        height: 18
+      alignment: 9
+      pivot: {x: 0.47453767, y: -1.678449}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc76b80229a8c9a0800000000000000
+      internalID: -6212529722317439817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gama04
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 184
+        width: 77
+        height: 89
+      alignment: 9
+      pivot: {x: 0.45656317, y: 0.17117447}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a146673d66266e90800000000000000
+      internalID: -7032891517569711708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gama03
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 190
+        width: 79
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5052915, y: 0.098001726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27563ab831aa6ef70800000000000000
+      internalID: 9216240688384140658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _60
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 187
+        width: 52
+        height: 38
+      alignment: 9
+      pivot: {x: 0.44372016, y: 0.07091924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3364d606bf1431790800000000000000
+      internalID: -7560626801514559949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _61
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 223
+        width: 41
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5509848, y: 0.081921}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be79319f973d0a250800000000000000
+      internalID: 5953991228207110123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gama08
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999f75144b63c1aa0800000000000000
+      internalID: -6189011640095606375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gama02
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 87
+        width: 142
+        height: 164
+      alignment: 9
+      pivot: {x: 0.47480237, y: 0.57634324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97794156b67b493e0800000000000000
+      internalID: -2047810258661501063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gama09
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 198
+        width: 28
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5000011, y: 0.94008744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32ec28de472af0d0800000000000000
+      internalID: -3388352550055124418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _65
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 168
+        width: 12
+        height: 18
+      alignment: 9
+      pivot: {x: 0.49999937, y: 0.0819202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bb2799d9e553840800000000000000
+      internalID: 5203168975473785611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _66
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 165
+        width: 7
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: -1.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09caaeb62ef025d60800000000000000
+      internalID: 7877376163371986064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _67
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 116
+        width: 68
+        height: 79
+      alignment: 9
+      pivot: {x: 0.4754071, y: 0.007832201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0310cb12cd490000800000000000000
+      internalID: 2618770874962702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _68
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 123
+        width: 25
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: -0.0028235978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717d8330292720ce0800000000000000
+      internalID: -1440462959360289001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gama05
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 100
+        width: 53
+        height: 78
+      alignment: 9
+      pivot: {x: 0.51577586, y: 0.017602382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51aeecb1e76e7610800000000000000
+      internalID: 1620847135135015259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gama06
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 110
+        width: 27
+        height: 50
+      alignment: 9
+      pivot: {x: 0.43806174, y: 0.023390807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7918357fba72cd80800000000000000
+      internalID: -8231882206155892353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gama07
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 36
+        width: 38
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5220032, y: -0.0038381724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3b908a1cc923510800000000000000
+      internalID: 1527455579193848808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _72
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 842
+        width: 21
+        height: 60
+      alignment: 9
+      pivot: {x: 0.48827833, y: 0.015922038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7658831f8abc856f0800000000000000
+      internalID: -695582215966784153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gama
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 830
+        width: 180
+        height: 192
+      alignment: 9
+      pivot: {x: 0.49491644, y: -0.02161026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a86585a6de3b0b40800000000000000
+      internalID: 5407484869209319587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: towninside _73
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 630
+        width: 125
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5066152, y: 0.7379061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75f51514a3f72650800000000000000
+      internalID: 6208198497407464828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

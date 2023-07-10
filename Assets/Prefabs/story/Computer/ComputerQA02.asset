@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1cc17efbeb40ed49b74f0700b3764f5, type: 3}
+  m_Name: ComputerQA02
+  m_EditorClassIdentifier: 
+  keyword: CQA02
+  maxtime: 12
+  Anserlong: 3
+  Quastion: "\u8CC7\u6599\u7DE8\u865F:<b>\uFF2F\uFF2F\uFF2F</b>"
+  A: B45
+  B: E54
+  C: A12
+  D: D23

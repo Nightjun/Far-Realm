@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f4bba1540e8c4143823fa4111aabc4f, type: 3}
+  m_Name: flowercat
+  m_EditorClassIdentifier: 
+  whichfight: "\u9673\u59D1\u5A18"
+  theword: "\u96E3\u641E\u7684\u9AD8\u51B7\u4E09\u82B1\u8C93"
+  aboutwho: "\u9673\u59D1\u5A1803"
+  mainword: "\u4E09\u82B1\u8C93"
